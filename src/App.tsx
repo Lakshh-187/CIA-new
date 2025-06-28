@@ -19,6 +19,7 @@ import WeInvite from "./pages/WeInvite";
 import Career from "./pages/Career";
 import YLC from "./pages/YLC";
 import NotFound from "./pages/NotFound";
+import MandatoryDisclosure from "./pages/MandatoryDisclosure";
 
 // Create a client
 const queryClient = new QueryClient();
@@ -47,6 +48,7 @@ const App: React.FC = () => {
                 <Route path="career" element={<Career />} />
                 <Route path="ylc" element={<YLC />} />
                 <Route path="*" element={<NotFound />} />
+                <Route path="/mandatory-disclosure" element={<MandatoryDisclosure />} />
               </Route>
             </Routes>
           </BrowserRouter>
