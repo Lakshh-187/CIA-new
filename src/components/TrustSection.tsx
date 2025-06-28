@@ -13,17 +13,17 @@ const trustImages = [
     caption: "Trust Headquarters"
   },
   {
-    src: "https://i.ibb.co/ZSQKxR7/trust-members.jpg",
+    src: "https://iili.io/FR50MSs.jpg",
     alt: "Trust Board Members",
     caption: "Trust Board Meeting"
   },
   {
-    src: "https://i.ibb.co/XpP7hv3/trust-certificate.jpg",
+    src: "https://iili.io/FR51TsS.jpg",
     alt: "Trust Registration Certificate",
     caption: "Registration Certificate"
   },
   {
-    src: "https://i.ibb.co/7jSXLh5/trust-school.jpg",
+    src: "https://iili.io/FR5EBEP.jpg",
     alt: "School Building",
     caption: "Chankya International Academy"
   }
